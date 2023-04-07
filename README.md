@@ -26,6 +26,14 @@ To upload the code, you need to copy the library folder in your local Arduino li
 
 After a successful upload, disconnect the USB cable and remove the "BOOT" solder bridge. Now, you dont need to solder the Bridge anymore to upload a Code via USB. You can also disconnect the USB Cable (or leave it, if you want to use it as the power source) and power the device via the +5V and GND Pads. The Software is prepared to update the firmware, if a "SO_update.bin" was found on the SD-Card, so in case of an Update, you dont need the USB connection anymore.
 
+The Case for the powerbank is printed with an FDM 3D Printer. You need 3x M2 Threaded inserts and M2x6mm screws to assemble everything. As a battery, i use 402535 320mAh LiPo. A piece of double sieded tape between the battery and board will is recommended.
+
+The magnets i use was 2mm x 1mm. Use a pen to mark the polarity, so you know everytime the orientation.
+
+The Case for the Nintendo Switch is printed with an Resin Printer. I had to do some tests to find the perfect dimensions, but now everything should fit very well.
+Paint can bring some thickness, so be carefull with to mouch Paint.
+
+
 Credits:
 
 https://github.com/bitbank2/AnimatedGIF
