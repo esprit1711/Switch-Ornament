@@ -5,7 +5,7 @@ tinyest possible Gif Player that looks like a Nintendo Switch
 
 Here, you will find everything to Copy my GIF Player, that looks like a Nintendo Switch. This Project use a 0.96" 80x160 Pixel TFT with st7735 Driver.
 The Source Code is based on the "ESP32-LGFX-SDCard-GifPlayer" Example of the "AnimatedGIF" library from "bitbank2".
-The Inspiration for this Project is the Nintendo Switch Ornamend from scottbez1. He use a slightly bigger Screen, with much higher Resolution but i want the smalest possible Switch.
+The Inspiration for this Project is the Nintendo Switch Ornamend from scottbez1 (you can find his Video in der Credits). He use a slightly bigger Screen, with much higher Resolution but i want the smalest possible Switch.
 
 Part of this Project is a DIY Powerbank only for this device so you can use it as a christmas ornament. Powerbank and Switch are connected over a 65cm long cable with 0.04mm² wires. to achive also the tinyest possible powerbank, i crated a custom Board with Li-Po Charger and Power Switch (you can charge the battery and can still use the device). To use the powerbank also as base, i put 3 magnets inside the switch case and powerbank so it will hold very well together without any bad looking mechanic
 
@@ -26,9 +26,9 @@ To upload the code, you need to copy the library folder in your local Arduino li
 
 After a successful upload, disconnect the USB cable and remove the "BOOT" solder bridge. Now, you dont need to solder the Bridge anymore to upload a Code via USB. You can also disconnect the USB Cable (or leave it, if you want to use it as the power source) and power the device via the +5V and GND Pads. The Software is prepared to update the firmware, if a "SO_update.bin" was found on the SD-Card, so in case of an Update, you dont need the USB connection anymore.
 
-The Case for the powerbank is printed with an FDM 3D Printer. You need 3x M2 Threaded inserts and M2x6mm screws to assemble everything. As a battery, i use 402535 320mAh LiPo. A piece of double sieded tape between the battery and board will is recommended.
+The Case for the powerbank is printed with an FDM 3D Printer. You need 3x M2 Threaded inserts and M2x6mm screws to assemble everything. As a battery, i use 402535 320mAh LiPo. A piece of double sieded tape between the battery and board is recommended.
 
-The magnets i use was 2mm x 1mm. Use a pen to mark the polarity, so you know everytime the orientation.
+The magnets i use are 2mm x 1mm (diameter x thickness). Use a pen to mark the polarity, so you know everytime the orientation.
 
 The Case for the Nintendo Switch is printed with an Resin Printer. I had to do some tests to find the perfect dimensions, but now everything should fit very well.
 Paint can bring some thickness, so be carefull with to mouch Paint.
