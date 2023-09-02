@@ -1,6 +1,6 @@
 # Switch-Ornament
 tinyest possible Gif Player that looks like a Nintendo Switch
-
+IN CASE YOU WANT TO BUILD YOUR OWN SWITCH ORNAMENT, PLEASE CONTACT ME. I WANT TO FIX SOME TINY PROBLEMS WITH THE BOARD IN VERSION 1.4 :)
 ![alt text](https://github.com/esprit1711/Switch-Ornament/blob/main/Assembly.JPG?raw=true)
 
 Here, you will find everything to Copy my GIF Player, that looks like a Nintendo Switch. This Project use a 0.96" 80x160 Pixel TFT with st7735 Driver.
