@@ -33,6 +33,10 @@ The magnets i use are 2mm x 1mm (diameter x thickness). Use a pen to mark the po
 The Case for the Nintendo Switch is printed with an Resin Printer. I had to do some tests to find the perfect dimensions, but now everything should fit very well.
 Paint can bring some thickness, so be carefull with to mouch Paint.
 
+Hardware:
+![alt text](https://github.com/esprit1711/Switch-Ornament/blob/main/Render_back.png?raw=true)
+![alt text](https://github.com/esprit1711/Switch-Ornament/blob/main/Render_front.png?raw=true)
+![alt text](https://github.com/esprit1711/Switch-Ornament/blob/main/Battery_Pack_render.png?raw=true)
 
 Credits:
 
