@@ -38,6 +38,25 @@ Hardware:
 ![alt text](https://github.com/esprit1711/Switch-Ornament/blob/main/Render_front.png?raw=true)
 ![alt text](https://github.com/esprit1711/Switch-Ornament/blob/main/Battery_Pack_render.png?raw=true)
 
+Changelog:
+1.1:
+- Support for alternative ST7735 Displays (if Color ist wrong, try GPIO09 connect to VCC (alternative Display Type))
+
+1.2:
+- Check for GIF Header. Ignor file if Header ist not "GIF"
+- alternative library (chose before compile code)
+
+1.3:
+- PNG support
+- Left Button trigger play previous file instead of changing the Brightness of the Screen
+
+1.4:
+- Clean Code, so it should be now better to maintain
+- Fix a problem when use the LGFX library (use a variable from eSPI to initialise the SD Card (old testing stuff))
+- improve Version Information and SD Card Info Screen. Its now cleaner and stay for 2 instead of 1 second
+- change brightness level by push and hold left (reduce) or right (increase) button for more than 1 second
+- speed up initialisation slightly
+
 Credits:
 
 https://github.com/bitbank2/AnimatedGIF
